@@ -1,11 +1,11 @@
-# Ejercicios de Lógica en C
+# Logic Exercises in C
 
-Este repositorio contiene una serie de ejercicios resueltos en C para practicar y mejorar habilidades básicas de programación.
+This repository contains a series of exercises solved in C to practice and improve basic programming skills.
 
-## Descripción
+## Description
 
-El propósito principal de este repositorio es proporcionar una serie de ejercicios simples y prácticos que cubren conceptos fundamentales de programación en C, como variables, estructuras de control y funciones. Cada ejercicio está diseñado para resolver un problema específico de lógica, lo que ayuda a afianzar el conocimiento teórico con la práctica directa.
+The main purpose of this repository is to provide a series of simple and practical exercises that cover fundamental C programming concepts such as variables, control structures, and functions. Each exercise is designed to solve a specific logic problem, which helps consolidate theoretical knowledge with direct practice.
 
-## Ejecución de los Ejercicios
+## Execution of the Exercises
 
-Cada archivo de cada ejercicio describe el problema específico y cómo se resolvió y contiene el código fuente de la solución.
+Each file in each exercise describes the specific problem and how it was solved and contains the source code for the solution.
